@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="100%" height="100%" fill="#fff4f6"/>
+  <g transform="translate(200,140)">
+    <path d="M100 30 C120 -10, 200 -10, 220 30 C260 100, 140 170, 100 210 C60 170 -60 100 -20 30 C0 -10 80 -10 100 30 Z" fill="#ff8fb2"/>
+    <text x="10" y="280" font-family="Poppins, sans-serif" font-size="22" fill="#b64a60">Replace image</text>
+  </g>
+</svg>
