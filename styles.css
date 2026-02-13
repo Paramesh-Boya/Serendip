@@ -29,6 +29,13 @@ figure{margin:0}
 figcaption{font-size:12px;color:#8b5566;margin-top:6px}
 .credits{margin-top:18px;font-size:13px;color:#8b5566}
 
+.floating-note {
+  margin-top: 24px;
+  font-size: 14px;
+  color: #6b3340;
+  opacity: 0.9;
+}
+
 /* locked image overlay */
 .img-wrapper.locked img {
   filter: blur(6px);
